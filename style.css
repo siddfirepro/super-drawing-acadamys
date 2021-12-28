@@ -1,0 +1,18 @@
+#score{
+    margin-left: 5px;
+    font-size: 20px;
+}
+body{
+    background: grey ;
+}
+h1{
+    background-color: whitesmoke;
+    color: black;
+}
+#show_sketch{
+    float: right;
+}
+p{
+    font-size: 25px;
+    color:yellow ;
+}
